@@ -1,0 +1,26 @@
+/* Colors and fonts */
+body {
+	background: rgb(230, 230,230);
+	color: rgb(50, 50,50);
+	font-family: Helvetica;
+	font-size: 16px;
+}
+h1, h2, h3 {
+    font-family: Courier;
+}
+h1 {
+	color: purple;
+	font-size: 34px;
+}
+h2 {
+	color: rgb(100, 100, 100);
+	font-size: 24px;
+	font-weight: lighter;
+}
+a {
+	text-decoration: none;
+	color: pink;
+}
+a:hover {
+	color: blue; 
+}
